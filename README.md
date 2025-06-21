@@ -103,16 +103,12 @@ flutter run
 | 📤 Deployment & Submission  | Apr – Jun 2025  |
 📝 Publications
 📚 “E NO Dues Application” – Computer Research & Development, Vol. 24, Issue 11, 2024
-
 📰 “A Digital System For Student Clearance” – IJREAM, Vol. 11, Issue 01, April 2025
 
 👨‍💻 Authors
 Vivek Wable
-
 Jayvardhan More
-
 Tejas Satav
-
 Sanket Panhale 💻
 
 Guided by Prof. A.A. Patil
