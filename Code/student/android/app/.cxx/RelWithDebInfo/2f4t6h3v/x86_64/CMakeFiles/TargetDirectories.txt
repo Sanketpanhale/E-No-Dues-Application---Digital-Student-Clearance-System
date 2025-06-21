@@ -1,0 +1,2 @@
+/home/rohit/Desktop/Projects/Group 2517/Code/student/android/app/.cxx/RelWithDebInfo/2f4t6h3v/x86_64/CMakeFiles/edit_cache.dir
+/home/rohit/Desktop/Projects/Group 2517/Code/student/android/app/.cxx/RelWithDebInfo/2f4t6h3v/x86_64/CMakeFiles/rebuild_cache.dir
