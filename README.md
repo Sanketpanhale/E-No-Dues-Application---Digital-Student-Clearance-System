@@ -92,8 +92,10 @@ Firebase Authentication
 Firestore DB
 
 Cloud Functions (optional)
+
 ▶️ Run the App
 flutter run
+
 🗓️ Project Timeline
 | Phase                       | Duration        |
 | --------------------------- | --------------- |
