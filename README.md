@@ -3,26 +3,25 @@
 <p align="center">
   <i>A Smart Digital Clearance System for Educational Institutions</i>  
   <br />
-  <b>Built with Flutter & Firebase | Final Year BE Project (2024–25)</b>
+  <b>Built with Flutter, Dart & Firebase | Final Year BE Project (2024–25)</b>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20With-Flutter-02569B?style=for-the-badge&logo=flutter" />
+   <img src="https://img.shields.io/badge/language-Dart-orange?style=for-the-badge&logo=dart" />
   <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/Platform-Android%20|%20Web-green?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/Platform-Android%20|%20ios-green?style=for-the-badge&logo=android" />
 </p>
 
 ---
 
 ## 🧾 About the Project
 
-🎓 The **E-No Dues Application** revolutionizes the traditional clearance process for graduating students by automating and digitizing the workflow.  
-This mobile-first solution enables students to request and track clearance digitally across departments like:
-
+🎓 Traditionally, this process is manual, requiring students to physically visit multiple departments, leading to inefficiencies and delays. This app enables students to digitally submit clearance requests to different departments and track approval statuses in real-time.
 - 📚 Library
 - 🏨 Hostel
 - 💰 Accounts
-- 🧪 Labs
+- 🧪/🖥️ Labs
 - 📋 Admin & T&P
 
 ✅ Once cleared, students can download a **No Dues Certificate** directly from the app.
@@ -103,6 +102,7 @@ flutter run
 | 📐 Design & Requirements    | Oct – Nov 2024  |
 | 🧱 Implementation & Testing | Dec – Mar 2025  |
 | 📤 Deployment & Submission  | Apr – Jun 2025  |
+
 📝 Publications
 📚 “E NO Dues Application” – Computer Research & Development, Vol. 24, Issue 11, 2024
 📰 “A Digital System For Student Clearance” – IJREAM, Vol. 11, Issue 01, April 2025
@@ -113,20 +113,15 @@ Jayvardhan More
 Tejas Satav
 Sanket Panhale 💻
 
-Guided by Prof. A.A. Patil
-🎓 SKN Sinhgad Institute of Technology & Science, Lonavala
-
 📜 License
 This repository is intended for academic and demonstration purposes only.
 Please credit the authors if reused for educational or personal projects.
 
 ⭐ Stay Connected
 📧 sanketpanhale17@gmail.com
-🔗 LinkedIn (optional)
+🔗 LinkedIn (Sanket Panhale)
 🏫 Sinhgad Institute of Technology, Pune
 
 If you like this project, don’t forget to ⭐ star it!
 
 ---
-
-Would you like me to export this into a `README.md` file so you can upload it directly to your GitHub repository?
