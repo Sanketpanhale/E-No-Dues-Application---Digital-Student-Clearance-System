@@ -52,14 +52,6 @@
 
 ---
 
-## 📱 Screenshots
-
-| Student Dashboard | Department Panel | Certificate View |
-|-------------------|------------------|------------------|
-| ![screenshot1](https://via.placeholder.com/250x400?text=Student+Dashboard) | ![screenshot2](https://via.placeholder.com/250x400?text=Department+Login) | ![screenshot3](https://via.placeholder.com/250x400?text=No+Dues+Certificate) |
-
----
-
 ## 📦 Installation Guide
 
 ### 📋 Prerequisites
